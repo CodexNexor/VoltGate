@@ -1,3 +1,4 @@
+// Package management — management internal logic
 package management
 
 import (
