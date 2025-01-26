@@ -1,3 +1,4 @@
+// Package middleware — middleware internal logic
 package middleware
 
 import (
