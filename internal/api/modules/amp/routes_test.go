@@ -1,3 +1,4 @@
+// Package amp — amp internal logic
 package amp
 
 import (
