@@ -1,3 +1,4 @@
+// Package api — api internal logic
 package api
 
 import (
