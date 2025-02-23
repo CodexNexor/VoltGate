@@ -1,3 +1,4 @@
+// Package antigravity — antigravity internal logic
 package antigravity
 
 import (
