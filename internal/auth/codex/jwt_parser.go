@@ -1,3 +1,4 @@
+// Package codex — codex internal logic
 package codex
 
 import (
