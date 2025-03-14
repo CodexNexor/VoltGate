@@ -1,3 +1,4 @@
+// Package iflow — iflow internal logic
 package iflow
 
 import (
