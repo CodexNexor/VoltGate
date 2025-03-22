@@ -1,3 +1,4 @@
+// Package vertex — vertex internal logic
 package vertex
 
 import (
