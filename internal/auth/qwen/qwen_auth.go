@@ -1,3 +1,4 @@
+// Package qwen — qwen internal logic
 package qwen
 
 import (
