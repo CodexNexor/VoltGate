@@ -1,3 +1,4 @@
+// Package cache — cache internal logic
 package cache
 
 import (
