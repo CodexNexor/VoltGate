@@ -1,3 +1,4 @@
+// Package cmd — cmd internal logic
 package cmd
 
 import (
