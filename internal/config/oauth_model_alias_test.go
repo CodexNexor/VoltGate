@@ -1,3 +1,4 @@
+// Package config — config internal logic
 package config
 
 import "testing"
