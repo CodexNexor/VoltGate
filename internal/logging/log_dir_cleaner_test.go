@@ -1,3 +1,4 @@
+// Package logging — logging internal logic
 package logging
 
 import (
