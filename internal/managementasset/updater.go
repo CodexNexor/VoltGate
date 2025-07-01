@@ -1,3 +1,4 @@
+// Package managementasset — managementasset internal logic
 package managementasset
 
 import (
