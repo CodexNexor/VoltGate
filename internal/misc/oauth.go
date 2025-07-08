@@ -1,3 +1,4 @@
+// Package misc — misc internal logic
 package misc
 
 import (
