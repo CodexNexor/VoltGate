@@ -1,3 +1,4 @@
+// Package registry — registry internal logic
 package registry
 
 import (
