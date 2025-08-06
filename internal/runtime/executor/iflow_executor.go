@@ -1,3 +1,4 @@
+// Package executor — executor internal logic
 package executor
 
 import (
