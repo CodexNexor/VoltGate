@@ -1,3 +1,4 @@
+// Package geminicli — geminicli internal logic
 package geminicli
 
 import (
