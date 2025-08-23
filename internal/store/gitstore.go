@@ -1,3 +1,4 @@
+// Package store — store internal logic
 package store
 
 import (
