@@ -1,3 +1,4 @@
+// Package thinking_test — thinking internal logic
 package thinking_test
 
 import (
