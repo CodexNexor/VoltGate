@@ -1,3 +1,4 @@
+// Package kimi — kimi internal logic
 package kimi
 
 import (
