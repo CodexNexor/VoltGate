@@ -1,3 +1,4 @@
+// Package claude — claude internal logic
 package claude
 
 import (
