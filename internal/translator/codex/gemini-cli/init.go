@@ -1,3 +1,4 @@
+// Package geminiCLI — gemini-cli internal logic
 package geminiCLI
 
 import (
