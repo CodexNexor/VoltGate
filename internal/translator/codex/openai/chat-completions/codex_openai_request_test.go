@@ -1,3 +1,4 @@
+// Package chat_completions — chat-completions internal logic
 package chat_completions
 
 import (
