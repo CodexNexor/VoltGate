@@ -1,3 +1,4 @@
+// Package common — common internal logic
 package common
 
 import (
