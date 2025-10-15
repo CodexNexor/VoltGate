@@ -1,3 +1,4 @@
+// Package responses — responses internal logic
 package responses
 
 import (
