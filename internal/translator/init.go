@@ -1,3 +1,4 @@
+// Package translator — translator internal logic
 package translator
 
 import (
