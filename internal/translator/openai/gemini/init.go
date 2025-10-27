@@ -1,3 +1,4 @@
+// Package gemini — gemini internal logic
 package gemini
 
 import (
