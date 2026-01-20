@@ -27,6 +27,7 @@ COPY config.example.yaml /VoltGate/config.example.yaml
 WORKDIR /VoltGate
 
 EXPOSE 8317
+# Override via config.yaml at runtime
 
 ENV TZ=Asia/Shanghai
 
