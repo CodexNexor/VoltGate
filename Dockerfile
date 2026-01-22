@@ -28,6 +28,7 @@ WORKDIR /VoltGate
 
 EXPOSE 8317
 # Override via config.yaml at runtime
+# Override via config.yaml at runtime
 
 ENV TZ=Asia/Shanghai
 
