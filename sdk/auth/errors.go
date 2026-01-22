@@ -6,7 +6,7 @@ import (
 	"github.com/voltgate/voltgate/v6/internal/interfaces"
 )
 
-// ProjectSelectionError indicates that the user must choose a specific project ID.
+// ProjectSelectionError is returned when the user must pick from multiple GCP projects.
 type ProjectSelectionError struct {
 	Email    string
 	Projects []interfaces.GCPProjectProjects
