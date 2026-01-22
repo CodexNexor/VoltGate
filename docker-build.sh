@@ -11,6 +11,7 @@
 
 set -euo pipefail
 
+# Configuration
 STATS_DIR="temp/stats"
 STATS_FILE="${STATS_DIR}/.usage_backup.json"
 SECRET_FILE="${STATS_DIR}/.api_secret"
