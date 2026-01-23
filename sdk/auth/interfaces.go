@@ -11,7 +11,7 @@ import (
 
 var ErrRefreshNotSupported = errors.New("voltgate auth: refresh not supported")
 
-// LoginOptions captures generic knobs shared across authenticators.
+// LoginOptions holds common configuration knobs shared across all authenticators.
 // Provider-specific logic can inspect Metadata for extra parameters.
 type LoginOptions struct {
 	NoBrowser    bool
