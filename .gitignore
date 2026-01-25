@@ -1,6 +1,9 @@
 # Binaries
 voltgate
 *.exe
+# Temp stats directory
+stats/
+temp/
 
 # Configuration
 config.yaml
