@@ -4,6 +4,9 @@ voltgate
 # Temp stats directory
 stats/
 temp/
+# Temp stats directory
+stats/
+temp/
 
 # Configuration
 config.yaml
