@@ -40,3 +40,4 @@ func main() {
 
 	fmt.Printf("Converted response for OpenAI clients:\n%s\n", convertedResponse)
 }
+
