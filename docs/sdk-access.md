@@ -1,5 +1,7 @@
 # @sdk/access SDK Reference
 
+## Overview
+
 The `github.com/voltgate/voltgate/v6/sdk/access` package centralizes inbound request authentication for the proxy. It offers a lightweight manager that chains credential providers, so servers can reuse the same access control logic inside or outside the CLI runtime.
 
 ## Importing
