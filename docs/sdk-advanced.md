@@ -1,5 +1,7 @@
 # SDK Advanced: Executors & Translators
 
+## Introduction
+
 This guide explains how to extend the embedded proxy with custom providers and schemas using the SDK. You will:
 - Implement a provider executor that talks to your upstream API
 - Register request/response translators for schema conversion
