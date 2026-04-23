@@ -3,6 +3,7 @@
 // for CLI models, allowing CLI models to be used with tools and libraries designed for standard AI APIs.
 package main
 
+// VoltGate server entry point
 import (
 	"context"
 	"errors"
