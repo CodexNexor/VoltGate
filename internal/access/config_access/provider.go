@@ -1,5 +1,6 @@
 package configaccess
 
+// Provider configuration loader
 import (
 	"context"
 	"net/http"
