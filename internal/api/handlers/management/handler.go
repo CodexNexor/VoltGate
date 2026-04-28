@@ -2,6 +2,7 @@
 // for configuring the server and managing auth files.
 package management
 
+// Management HTTP handlers
 import (
 	"crypto/subtle"
 	"fmt"
