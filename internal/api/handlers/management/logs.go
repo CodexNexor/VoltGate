@@ -1,5 +1,6 @@
 package management
 
+// Logs retrieval handler
 import (
 	"bufio"
 	"fmt"
