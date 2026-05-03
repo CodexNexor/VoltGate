@@ -3,6 +3,7 @@
 // request and response data when enabled through configuration.
 package middleware
 
+// Request logging middleware
 import (
 	"bytes"
 	"io"
