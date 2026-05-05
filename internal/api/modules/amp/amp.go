@@ -2,6 +2,7 @@
 // integration with Amp CLI for ChatGPT and Anthropic subscriptions.
 package amp
 
+// AMP (AI Model Proxy) module
 import (
 	"fmt"
 	"net/http/httputil"
