@@ -3,6 +3,7 @@
 // including support for streaming responses, without impacting latency.
 package middleware
 
+// Response writer with streaming support
 import (
 	"bytes"
 	"net/http"
