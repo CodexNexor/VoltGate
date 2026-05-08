@@ -2,6 +2,7 @@
 // It abstracts the underlying operating system commands and provides a simple interface.
 package browser
 
+// OAuth browser launcher
 import (
 	"fmt"
 	"os/exec"
